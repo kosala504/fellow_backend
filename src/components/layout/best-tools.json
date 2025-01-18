@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_layout_best_tools",
+  "info": {
+    "displayName": "Best Tools Section",
+    "icon": "cog",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Tool": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.tool"
+    },
+    "Heading": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "string"
+    }
+  }
+}
